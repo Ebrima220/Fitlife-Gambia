@@ -12,7 +12,7 @@ export default defineConfig({
         main: resolve(__dirname, 'index.html'),
         about: resolve(__dirname, 'about.html'),
         service: resolve(__dirname, 'service.html'),
-        gallery: resolve(__dirname, 'gallary.html'),
+        gallery: resolve(__dirname, 'gallery.html'),
         contact: resolve(__dirname, 'contact.html'),
       },
     },
